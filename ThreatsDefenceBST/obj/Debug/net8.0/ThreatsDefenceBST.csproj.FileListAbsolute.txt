@@ -1,0 +1,17 @@
+C:\Users\Simch\source\repos\ThreatsDefenceBST\ThreatsDefenceBST\bin\Debug\net8.0\ThreatsDefenceBST.exe
+C:\Users\Simch\source\repos\ThreatsDefenceBST\ThreatsDefenceBST\bin\Debug\net8.0\ThreatsDefenceBST.deps.json
+C:\Users\Simch\source\repos\ThreatsDefenceBST\ThreatsDefenceBST\bin\Debug\net8.0\ThreatsDefenceBST.runtimeconfig.json
+C:\Users\Simch\source\repos\ThreatsDefenceBST\ThreatsDefenceBST\bin\Debug\net8.0\ThreatsDefenceBST.dll
+C:\Users\Simch\source\repos\ThreatsDefenceBST\ThreatsDefenceBST\bin\Debug\net8.0\ThreatsDefenceBST.pdb
+C:\Users\Simch\source\repos\ThreatsDefenceBST\ThreatsDefenceBST\obj\Debug\net8.0\ThreatsDefenceBST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simch\source\repos\ThreatsDefenceBST\ThreatsDefenceBST\obj\Debug\net8.0\ThreatsDefenceBST.AssemblyInfoInputs.cache
+C:\Users\Simch\source\repos\ThreatsDefenceBST\ThreatsDefenceBST\obj\Debug\net8.0\ThreatsDefenceBST.AssemblyInfo.cs
+C:\Users\Simch\source\repos\ThreatsDefenceBST\ThreatsDefenceBST\obj\Debug\net8.0\ThreatsDefenceBST.csproj.CoreCompileInputs.cache
+C:\Users\Simch\source\repos\ThreatsDefenceBST\ThreatsDefenceBST\obj\Debug\net8.0\ThreatsDefenceBST.dll
+C:\Users\Simch\source\repos\ThreatsDefenceBST\ThreatsDefenceBST\obj\Debug\net8.0\refint\ThreatsDefenceBST.dll
+C:\Users\Simch\source\repos\ThreatsDefenceBST\ThreatsDefenceBST\obj\Debug\net8.0\ThreatsDefenceBST.pdb
+C:\Users\Simch\source\repos\ThreatsDefenceBST\ThreatsDefenceBST\obj\Debug\net8.0\ThreatsDefenceBST.genruntimeconfig.cache
+C:\Users\Simch\source\repos\ThreatsDefenceBST\ThreatsDefenceBST\obj\Debug\net8.0\ref\ThreatsDefenceBST.dll
+C:\Users\Simch\source\repos\ThreatsDefenceBST\ThreatsDefenceBST\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Simch\source\repos\ThreatsDefenceBST\ThreatsDefenceBST\obj\Debug\net8.0\ThreatsDefenceBST.csproj.AssemblyReference.cache
+C:\Users\Simch\source\repos\ThreatsDefenceBST\ThreatsDefenceBST\obj\Debug\net8.0\ThreatsD.A75A03CF.Up2Date
